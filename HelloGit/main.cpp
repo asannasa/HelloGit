@@ -8,8 +8,8 @@ int main()
 	setlocale(LC_ALL, "Russian");
 
 	cout << "Hello, GitHub" << endl;
-	cout << "Привет, GitHub" << endl;
-
+	cout << "Test 2 to GitHub" << endl;
+	
 	_getch();
 	return 0;
 }
